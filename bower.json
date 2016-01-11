@@ -5,7 +5,7 @@
     "Spencer Alger <spencer@spenceralger.com>"
   ],
   "description": "The official low-level Elasticsearch client, for use in the browser.",
-  "main": "elasticsearch.js",
+  "main": "elasticsearch.angular.js",
   "keywords": [
     "elasticsearch",
     "client"
